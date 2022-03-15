@@ -1,0 +1,19 @@
+.restaurant{
+    float: left;
+    font-size: 40px;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+}
+img{
+    width: 50%;
+    height: 50%;
+    margin-right: 5px;
+}
+.review{
+    font-style: Helvetica;
+    font-size: 20px;
+    float: right;
+    width: 48%;
+}
